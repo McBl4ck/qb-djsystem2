@@ -1,4 +1,4 @@
-# qb-djsystem2
+# qb-djsystem
 Um script que premite colcocar musicas dentro do jogo sem recorrer ao uso de programas externos
 
 ## Dependencies
